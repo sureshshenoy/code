@@ -52,6 +52,7 @@ char* matchingChars(const char* a, const char *b)
 		
 	r[j] = '\0'; 
 
+	free(f);
 	return r;
 }
 
