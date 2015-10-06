@@ -1,3 +1,6 @@
+/*
+Given two lists find the merge point
+*/
 #include "stdio.h"
 #include "list.h"
 
